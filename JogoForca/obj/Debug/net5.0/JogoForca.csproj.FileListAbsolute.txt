@@ -1,0 +1,16 @@
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.csproj.AssemblyReference.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.AssemblyInfoInputs.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.AssemblyInfo.cs
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.exe
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.deps.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.runtimeconfig.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.runtimeconfig.dev.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\ref\JogoForca.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\bin\Debug\net5.0\JogoForca.pdb
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\ref\JogoForca.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.pdb
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\JogoForca\JogoForca\obj\Debug\net5.0\JogoForca.genruntimeconfig.cache
